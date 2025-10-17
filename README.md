@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Robin%20Jimmichan%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Robin%20Jimmichan%20Pooppally&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=160&lines=Business+Analyst+%7C+Data+Storyteller;Transforming+Data+Into+Decisions;92%25+Accuracy+%7C+13+Projects+%7C+7+Industries)](https://git.io/typing-svg)
 
