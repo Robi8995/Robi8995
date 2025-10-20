@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Robin%20Jimmichan%20Pooppally&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=160&lines=Business+Analyst+%7C+Data+Storyteller;Transforming+Data+Into+Decisions;92%25+Accuracy+%7C+13+Projects+%7C+7+Industries)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=160&lines=Business+Analyst+%7C+Data+Storyteller;Transforming+Data+Into+Decisions;92%25+Accuracy+%7C+21+Projects+%7C+10+Industries)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/robin-jimmichan-pooppally-676061291"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -48,7 +48,7 @@
 
 ### 🎯 **Who I Am**
 
-I'm a **Business Analyst** passionate about transforming complex data into actionable business strategies. Based in **Bengaluru, India**, I specialize in **SQL, Python, and Excel** to deliver end-to-end analytics solutions.
+I'm a **Business Analyst** passionate about transforming complex data into actionable business strategies. Based in **Bengaluru, India**, I specialize in **SQL, Python, Excel, and Power BI** to deliver end-to-end analytics solutions.
 
 ### 💡 **What Drives Me**
 
@@ -59,8 +59,8 @@ I'm a **Business Analyst** passionate about transforming complex data into actio
 
 ### 🎓 **Current Focus**
 
-📚 **Learning:** Power BI • Machine Learning • Advanced Analytics  
-🔨 **Building:** End-to-end analytics solutions • Interactive dashboards  
+📚 **Learning:** Advanced Machine Learning • Real-time Analytics  
+🔨 **Building:** Interactive dashboards • Predictive models  
 🎯 **Seeking:** Business Analyst roles • Data Analyst positions
 
 </td>
@@ -72,11 +72,12 @@ I'm a **Business Analyst** passionate about transforming complex data into actio
 
 | Metric | Count |
 |:------:|:-----:|
-| **📁 Total Projects** | **13** |
+| **📁 Total Projects** | **21** |
 | **📊 Excel Dashboards** | **6** |
-| **🗃️ SQL Projects** | **3** |
+| **🗃️ SQL Projects** | **5** |
+| **📈 Power BI Dashboards** | **4** |
 | **🐍 Python Projects** | **4** |
-| **🏢 Industries** | **7** |
+| **🏢 Industries** | **10** |
 
 <br/>
 
@@ -115,15 +116,19 @@ I'm a **Business Analyst** passionate about transforming complex data into actio
 <br/><b>Excel</b>
 </td>
 <td align="center" width="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48"/>
+<br/><b>Power BI</b>
+</td>
+<td align="center" width="120">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48"/>
 <br/><b>Pandas</b>
 </td>
+</tr>
+<tr>
 <td align="center" width="120">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48"/>
 <br/><b>NumPy</b>
 </td>
-</tr>
-<tr>
 <td align="center" width="120">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
 <br/><b>Scikit-learn</b>
@@ -131,10 +136,6 @@ I'm a **Business Analyst** passionate about transforming complex data into actio
 <td align="center" width="120">
 <img src="https://matplotlib.org/stable/_static/logo_light.svg" width="48"/>
 <br/><b>Matplotlib</b>
-</td>
-<td align="center" width="120">
-<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="48"/>
-<br/><b>Seaborn</b>
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=git" width="48"/>
@@ -155,7 +156,7 @@ I'm a **Business Analyst** passionate about transforming complex data into actio
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 <div align="center">
 
@@ -196,7 +197,7 @@ Patient Risk Assessment
 - 🎯 LOS prediction
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 <div align="center">
 
@@ -204,7 +205,7 @@ Patient Risk Assessment
 
 <img src="https://skillicons.dev/icons?i=mysql" width="60"/>
 
-**3 Business Intelligence Projects**
+**5 Business Intelligence Projects**
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-SQL-Projects)
 
@@ -217,24 +218,33 @@ Supply Chain Optimization
 - 💰 15-20% cost reduction
 - 📊 7 reports generated
 - 🔄 Supplier analysis
-- ⚡ Reorder alerts
 
 #### **💳 Loan Risk Analysis**
 Credit Risk Assessment
 - 🎯 10-15% default reduction
 - 📊 Risk segmentation
 - 💡 Credit thresholds
-- 📈 Portfolio insights
 
 #### **🏥 Hospital Operations**
 Healthcare Analytics
 - ⏱️ 8-12% stay reduction
 - 📊 1000+ records
 - 💰 Cost tracking
-- 📈 Doctor workload
+
+#### **🏦 Bank Customer Segmentation**
+Customer Classification
+- 👥 Urban demographics
+- 💳 Transaction analysis
+- 📊 Tier modeling
+
+#### **📞 Telco Churn Analysis**
+Customer Retention
+- 📈 Contract impact
+- 🔄 Churn patterns
+- 💡 Retention strategies
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 <div align="center">
 
@@ -281,6 +291,47 @@ Financial Analysis
 - Loan uptake
 
 </td>
+<td width="25%" valign="top">
+
+<div align="center">
+
+### 📈 **Power BI Dashboards**
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60"/>
+
+**4 Interactive Dashboards**
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-Power-BI-Projects)
+
+</div>
+
+---
+
+#### **🛍️ Retail Sales**
+Sales & Profit Trends
+- 📊 Regional analysis
+- 💹 Category breakdown
+- 📈 Margin insights
+
+#### **💼 Financial Performance**
+P&L & Revenue Tracking
+- 📊 YoY growth trends
+- 💰 Expense analysis
+- 📉 Margin trends
+
+#### **👤 Customer 360**
+Unified Customer View
+- 📊 Segmentation KPIs
+- 💬 Support tickets
+- 🛍️ Purchase frequency
+
+#### **🛒 E-commerce Funnel**
+Conversion Analysis
+- 📊 Visit to Purchase
+- 💹 Stage conversion
+- 📈 Drop-off analysis
+
+</td>
 </tr>
 </table>
 
@@ -292,281 +343,63 @@ Financial Analysis
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/13-667EEA?style=for-the-badge&logoColor=white" height="40"/>
-<br/><sub><b>Complete Projects</b></sub>
+<td align="center" width="16.66%">
+<img src="https://img.shields.io/badge/21-667EEA?style=for-the-badge&logoColor=white" height="50" width="100"/>
+<br/><b>Complete<br/>Projects</b>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/92%25-4CAF50?style=for-the-badge&logoColor=white" height="40"/>
-<br/><sub><b>Forecast Accuracy</b></sub>
+<td align="center" width="16.66%">
+<img src="https://img.shields.io/badge/92%25-4CAF50?style=for-the-badge&logoColor=white" height="50" width="100"/>
+<br/><b>Forecast<br/>Accuracy</b>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/15--20%25-FF6B6B?style=for-the-badge&logoColor=white" height="40"/>
-<br/><sub><b>Cost Reduction</b></sub>
+<td align="center" width="16.66%">
+<img src="https://img.shields.io/badge/15--20%25-FF6B6B?style=for-the-badge&logoColor=white" height="50" width="100"/>
+<br/><b>Cost<br/>Reduction</b>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/60%25-FFD700?style=for-the-badge&logoColor=white" height="40"/>
-<br/><sub><b>VIP Revenue</b></sub>
+<td align="center" width="16.66%">
+<img src="https://img.shields.io/badge/60%25-FFD700?style=for-the-badge&logoColor=white" height="50" width="100"/>
+<br/><b>VIP<br/>Revenue</b>
+</td>
+<td align="center" width="16.66%">
+<img src="https://img.shields.io/badge/10-9C27B0?style=for-the-badge&logoColor=white" height="50" width="100"/>
+<br/><b>Industries</b>
+</td>
+<td align="center" width="16.66%">
+<img src="https://img.shields.io/badge/48K+-00ACC1?style=for-the-badge&logoColor=white" height="50" width="100"/>
+<br/><b>Data<br/>Analyzed</b>
 </td>
 </tr>
+<tr height="30">
+<td colspan="6">&nbsp;</td>
+</tr>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/28%25-E91E63?style=for-the-badge&logoColor=white" height="40"/>
-<br/><sub><b>Risk Identified</b></sub>
+<td align="center" width="16.66%">
+<img src="https://img.shields.io/badge/28%25-E91E63?style=for-the-badge&logoColor=white" height="50" width="100"/>
+<br/><b>Risk<br/>Identified</b>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/8--12%25-00BCD4?style=for-the-badge&logoColor=white" height="40"/>
-<br/><sub><b>Stay Reduction</b></sub>
+<td align="center" width="16.66%">
+<img src="https://img.shields.io/badge/8--12%25-00BCD4?style=for-the-badge&logoColor=white" height="50" width="100"/>
+<br/><b>Stay<br/>Reduction</b>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/48K+-9C27B0?style=for-the-badge&logoColor=white" height="40"/>
-<br/><sub><b>Data Analyzed</b></sub>
+<td align="center" width="16.66%">
+<img src="https://img.shields.io/badge/63%25-FF5722?style=for-the-badge&logoColor=white" height="50" width="100"/>
+<br/><b>E-com<br/>Conversion</b>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/7-FF9800?style=for-the-badge&logoColor=white" height="40"/>
-<br/><sub><b>Industries</b></sub>
+<td align="center" width="16.66%">
+<img src="https://img.shields.io/badge/40%25-00897B?style=for-the-badge&logoColor=white" height="50" width="100"/>
+<br/><b>Lower<br/>Repeat Rate</b>
+</td>
+<td align="center" width="16.66%">
+<img src="https://img.shields.io/badge/81%25-FF9100?style=for-the-badge&logoColor=white" height="50" width="100"/>
+<br/><b>Visit to<br/>Cart</b>
+</td>
+<td align="center" width="16.66%">
+<img src="https://img.shields.io/badge/80%25-1976D2?style=for-the-badge&logoColor=white" height="50" width="100"/>
+<br/><b>Cart to<br/>Purchase</b>
 </td>
 </tr>
 </table>
 
 </div>
-
----
-
-## 🔬 **Featured Projects**
-
-<details>
-<summary><b>🔮 Sales Forecasting | Time Series Analysis</b></summary>
-
-<br/>
-
-**📊 Challenge:** Predict quarterly revenue for optimal inventory planning
-
-**🛠️ Methodology:**
-```
-1. Data Integration → Merged 12 monthly files using glob & pandas
-2. Time Series Analysis → Decomposition, stationarity testing (ADF)
-3. Model Development → ARIMA and Prophet forecasting models
-4. Validation → RMSE/MAE accuracy metrics
-```
-
-**✨ Key Results:**
-- ✅ **92% prediction accuracy** for next-quarter revenue
-- ✅ **Q4 identified** as peak season (35% higher sales)
-- ✅ **Top 3 cities** contribute 65% of total sales
-- ✅ **Seasonal patterns** clearly identified
-
-**💼 Business Impact:**
-- Optimal inventory levels achieved
-- Reduced stockouts by 40%
-- Better resource allocation
-- Data-driven planning enabled
-
-**🔧 Tech Stack:** Python • Pandas • NumPy • Statsmodels • Prophet • Matplotlib • Seaborn
-
-[![View Project](https://img.shields.io/badge/View_Details-667EEA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-Python-Projects)
-
-</details>
-
-<details>
-<summary><b>🛒 Market Basket Analysis | RFM Segmentation</b></summary>
-
-<br/>
-
-**📊 Challenge:** Maximize cross-sell opportunities through customer insights
-
-**🛠️ Methodology:**
-```
-1. RFM Analysis → Recency, Frequency, Monetary calculation
-2. Customer Segmentation → K-Means clustering (k=4, Elbow method)
-3. Market Basket → Apriori algorithm for association rules
-4. Rule Mining → Support ≥0.01, Confidence ≥0.3, Lift >1
-```
-
-**✨ Key Results:**
-- ✅ **VIP customers (15%)** generate 60% of revenue
-- ✅ **4 customer segments** identified (VIP, Loyal, At-Risk, Lost)
-- ✅ **{Coffee + Pastry}** bundle with 3.2x lift
-- ✅ **22% at-risk customers** flagged for retention
-
-**💼 Business Impact:**
-- 8 high-value product bundles recommended
-- Targeted retention campaigns designed
-- Revenue optimization strategies
-- Customer lifetime value increased
-
-**🔧 Tech Stack:** Python • Scikit-learn • MLxtend • Pandas • Matplotlib • Seaborn
-
-[![View Project](https://img.shields.io/badge/View_Details-667EEA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-Python-Projects)
-
-</details>
-
-<details>
-<summary><b>🏠 Airbnb Price Analysis | NYC Real Estate</b></summary>
-
-<br/>
-
-**📊 Challenge:** Understand pricing dynamics across NYC boroughs
-
-**🛠️ Methodology:**
-```
-1. Data Cleaning → Handled missing values, removed outliers
-2. Borough Analysis → Price comparison across 5 NYC areas
-3. Room Type Analysis → Entire home vs Private vs Shared
-4. Correlation Study → Price vs Reviews, Availability, Location
-```
-
-**✨ Key Results:**
-- ✅ **48,895 listings** analyzed across NYC
-- ✅ **Manhattan 2.3x** more expensive than Brooklyn
-- ✅ **Entire apartments** $175/night vs $89 private rooms
-- ✅ **Location > Reviews** for pricing influence
-
-**💼 Business Impact:**
-- Pricing optimization insights for hosts
-- Value identification (Williamsburg, Bushwick)
-- Market positioning strategies
-- Competitive analysis framework
-
-**🔧 Tech Stack:** Python • Pandas • NumPy • Matplotlib • Seaborn
-
-[![View Project](https://img.shields.io/badge/View_Details-667EEA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-Python-Projects)
-
-</details>
-
-<details>
-<summary><b>🏥 Healthcare Patient Analytics | Risk Assessment</b></summary>
-
-<br/>
-
-**📊 Challenge:** Identify high-risk patients for early intervention
-
-**🛠️ Methodology:**
-```
-1. Feature Engineering → Comorbidity scoring system
-2. Risk Classification → 3+ comorbidities = high-risk
-3. Temporal Analysis → Visit patterns and seasonal trends
-4. Predictive Modeling → Length of stay correlation
-```
-
-**✨ Key Results:**
-- ✅ **28% patients** classified as high-risk
-- ✅ **High-risk patients** have 2.1x longer stays (7.8 vs 3.7 days)
-- ✅ **Comorbidity count** = strongest predictor (0.64 correlation)
-- ✅ **December-January** show 35% higher admissions
-
-**💼 Business Impact:**
-- Early intervention protocols enabled
-- Resource allocation optimized
-- Potential 8-12% stay reduction
-- Cost management improved
-
-**🔧 Tech Stack:** Python • Pandas • NumPy • Matplotlib • Seaborn • GridSpec
-
-[![View Project](https://img.shields.io/badge/View_Details-667EEA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-Python-Projects)
-
-</details>
-
-<details>
-<summary><b>📦 Inventory & Supply Chain Optimization | SQL</b></summary>
-
-<br/>
-
-**📊 Challenge:** Reduce inventory costs while preventing stockouts
-
-**🛠️ Methodology:**
-```sql
-1. Database Design → Suppliers & Products with foreign keys
-2. Complex Queries → JOINs, CTEs, Window functions
-3. Supplier Analysis → Dependency percentage calculation
-4. Turnover Analysis → Annual Sales / Stock on Hand
-5. Alert System → Automated reorder point notifications
-```
-
-**✨ Key Results:**
-- ✅ **15-20% cost reduction** achieved
-- ✅ **7 actionable reports** generated
-- ✅ **Real-time alerts** for low stock
-- ✅ **Supplier diversification** recommended
-
-**💼 Business Impact:**
-- Prevented stockouts completely
-- Optimized inventory levels
-- Reduced supplier risk
-- Improved cash flow
-
-**🔧 Tech Stack:** MySQL • CTEs • Window Functions • Aggregate Functions
-
-[![View Project](https://img.shields.io/badge/View_Details-667EEA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-SQL-Projects)
-
-</details>
-
-<details>
-<summary><b>💳 Loan Default Risk Analysis | SQL</b></summary>
-
-<br/>
-
-**📊 Challenge:** Minimize loan default rates through risk assessment
-
-**🛠️ Methodology:**
-```sql
-1. Risk Segmentation → Credit score tiers (Low ≥750, Medium 600-749, High <600)
-2. Default Analysis → Repayment history patterns
-3. High-Risk ID → Credit score <600 OR poor repayment
-4. Portfolio Analysis → Loan amount vs risk correlation
-```
-
-**✨ Key Results:**
-- ✅ **10-15% reduction** in default rates
-- ✅ **Clear risk tiers** established
-- ✅ **Portfolio exposure** quantified by segment
-- ✅ **Early warning system** implemented
-
-**💼 Business Impact:**
-- Data-driven lending decisions
-- Regulatory compliance support
-- Reduced financial exposure
-- Improved profitability
-
-**🔧 Tech Stack:** MySQL • CASE Statements • Subqueries • Aggregations
-
-[![View Project](https://img.shields.io/badge/View_Details-667EEA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-SQL-Projects)
-
-</details>
-
-<details>
-<summary><b>🏥 Hospital Operations Analytics | SQL</b></summary>
-
-<br/>
-
-**📊 Challenge:** Optimize hospital operations and resource allocation
-
-**🛠️ Methodology:**
-```sql
-1. Admission Analysis → Department-wise patient volume
-2. LOS Calculation → Average stay duration per department
-3. Outcome Analysis → Treatment success rate distribution
-4. Cost Analysis → Billing patterns by outcome
-5. Workload Assessment → Top doctors by patient load
-```
-
-**✨ Key Results:**
-- ✅ **8-12% stay reduction** potential identified
-- ✅ **1000+ patient records** analyzed
-- ✅ **Top 10 doctors** by workload ranked
-- ✅ **Cost patterns** by outcome discovered
-
-**💼 Business Impact:**
-- Resource allocation optimized
-- Operational efficiency improved
-- Cost management enhanced
-- Patient care quality maintained
-
-**🔧 Tech Stack:** MySQL • DATE Functions • GROUP BY • Aggregate Functions
-
-[![View Project](https://img.shields.io/badge/View_Details-667EEA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-SQL-Projects)
-
-</details>
 
 ---
 
@@ -611,7 +444,7 @@ Financial Analysis
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
 
 **Skills:**
-- Dashboard Design
+- Dashboard Design (Power BI)
 - KPI Development
 - SQL Reporting
 - Data Visualization
@@ -650,6 +483,143 @@ Financial Analysis
 ![Profile Views](https://komarev.com/ghpvc/?username=Robi8995&color=667EEA&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+
+---
+
+## 🔬 **Featured Projects**
+
+<details>
+<summary><b>🔮 Sales Forecasting | Time Series Analysis</b></summary>
+
+<br/>
+
+**📊 Challenge:** Predict quarterly revenue for optimal inventory planning
+
+**🛠️ Methodology:**
+```
+1. Data Integration → Merged 12 monthly files using glob & pandas
+2. Time Series Analysis → Decomposition, stationarity testing (ADF)
+3. Model Development → ARIMA and Prophet forecasting models
+4. Validation → RMSE/MAE accuracy metrics
+```
+
+**✨ Key Results:**
+- ✅ **92% prediction accuracy** for next-quarter revenue
+- ✅ **Q4 identified** as peak season (35% higher sales)
+- ✅ **Top 3 cities** contribute 65% of total sales
+- ✅ **Seasonal patterns** clearly identified
+
+**💼 Business Impact:**
+- Optimal inventory levels achieved
+- Reduced stockouts by 40%
+- Better resource allocation
+- Data-driven planning enabled
+
+**🔧 Tech Stack:** Python • Pandas • NumPy • Statsmodels • Prophet • Matplotlib • Seaborn
+
+[![View Project](https://img.shields.io/badge/View_Details-667EEA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-Python-Projects)
+
+</details>
+
+<details>
+<summary><b>📈 Retail Sales Dashboard | Power BI</b></summary>
+
+<br/>
+
+**📊 Challenge:** Visualize sales performance across regions and product categories in real-time
+
+**🛠️ Methodology:**
+```
+1. Data Integration → Superstore sales data into Power BI
+2. Visualization Design → Maps, KPI cards, trend lines
+3. Interactivity → Slicers for region, category, time period
+4. Performance Analysis → Profit margin by segment
+```
+
+**✨ Key Results:**
+- ✅ **West region** shows highest profitability
+- ✅ **Furniture category** has lowest profit margins
+- ✅ **Real-time dashboards** for executive visibility
+- ✅ **Regional trends** clearly visible through visualizations
+
+**💼 Business Impact:**
+- Strategic focus on high-margin regions
+- Category-level optimization opportunities
+- Executive decision-making improved
+- Performance tracking automated
+
+**🔧 Tech Stack:** Power BI • DAX • Maps • KPI Cards • Trend Analysis
+
+[![View Project](https://img.shields.io/badge/View_Details-667EEA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-Power-BI-Projects)
+
+</details>
+
+<details>
+<summary><b>📦 Inventory & Supply Chain Optimization | SQL</b></summary>
+
+<br/>
+
+**📊 Challenge:** Reduce inventory costs while preventing stockouts
+
+**🛠️ Methodology:**
+```sql
+1. Database Design → Suppliers & Products with foreign keys
+2. Complex Queries → JOINs, CTEs, Window functions
+3. Supplier Analysis → Dependency percentage calculation
+4. Turnover Analysis → Annual Sales / Stock on Hand
+5. Alert System → Automated reorder point notifications
+```
+
+**✨ Key Results:**
+- ✅ **15-20% cost reduction** achieved
+- ✅ **7 actionable reports** generated
+- ✅ **Real-time alerts** for low stock
+- ✅ **Supplier diversification** recommended
+
+**💼 Business Impact:**
+- Prevented stockouts completely
+- Optimized inventory levels
+- Reduced supplier risk
+- Improved cash flow
+
+**🔧 Tech Stack:** MySQL • CTEs • Window Functions • Aggregate Functions
+
+[![View Project](https://img.shields.io/badge/View_Details-667EEA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-SQL-Projects)
+
+</details>
+
+<details>
+<summary><b>🛒 E-commerce Funnel Analysis | Power BI</b></summary>
+
+<br/>
+
+**📊 Challenge:** Optimize conversion funnel from Visit → Cart → Purchase
+
+**🛠️ Methodology:**
+```
+1. Data Integration → Visits, Carts, Purchases linked by Customer_ID
+2. Funnel Visualization → Stage-wise conversion rates
+3. Drop-off Analysis → Identify bottlenecks at each stage
+4. Trend Analysis → Conversion performance over time
+```
+
+**✨ Key Results:**
+- ✅ **Visit → Cart conversion: 81%**
+- ✅ **Cart → Purchase conversion: 80%**
+- ✅ **Overall conversion: 63%**
+- ✅ **Drop-offs** mainly occur at cart stage
+
+**💼 Business Impact:**
+- Cart abandonment strategies identified
+- Conversion optimization opportunities clear
+- Revenue growth potential quantified
+- User journey optimization enabled
+
+**🔧 Tech Stack:** Power BI • Funnel Charts • Cards • Trend Lines
+
+[![View Project](https://img.shields.io/badge/View_Details-667EEA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-Power-BI-Projects)
+
+</details>
 
 ---
 
