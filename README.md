@@ -98,51 +98,48 @@ I'm a **Business Analyst** passionate about transforming complex data into actio
 ---
 
 ## 💻 **Tech Stack**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=python" width="48"/>
+  
+<table width="100%"> <tr>
+<td align="center" width="300">
+<img src="https://skillicons.dev/icons?i=python" width="68"/>
 <br/><b>Python</b>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/>
+<td align="center" width="300">
+<img src="https://skillicons.dev/icons?i=mysql" width="68"/>
 <br/><b>MySQL</b>
 </td>
-<td align="center" width="120">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="48"/>
+<td align="center" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="68"/>
 <br/><b>Excel</b>
 </td>
-<td align="center" width="120">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48"/>
+<td align="center" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="68"/>
 <br/><b>Power BI</b>
 </td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48"/>
+<td align="center" width="300">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="68"/>
 <br/><b>Pandas</b>
 </td>
 </tr>
 <tr>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48"/>
+<td align="center" width="300">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="68"/>
 <br/><b>NumPy</b>
 </td>
-<td align="center" width="120">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
+<td align="center" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="68"/>
 <br/><b>Scikit-learn</b>
 </td>
-<td align="center" width="120">
-<img src="https://matplotlib.org/stable/_static/logo_light.svg" width="48"/>
+<td align="center" width="300">
+<img src="https://matplotlib.org/stable/_static/logo_light.svg" width="68"/>
 <br/><b>Matplotlib</b>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git" width="48"/>
+<td align="center" width="300">
+<img src="https://skillicons.dev/icons?i=git" width="68"/>
 <br/><b>Git</b>
 </td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
+<td align="center" width="300">
+<img src="https://skillicons.dev/icons?i=github" width="68"/>
 <br/><b>GitHub</b>
 </td>
 </tr>
@@ -701,4 +698,3 @@ Conversion Analysis
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-</div>
