@@ -665,7 +665,7 @@ Conversion Analysis
 <a href="https://robi-ai.streamlit.app/">
   <img src="https://img.shields.io/badge/🤖_AI_Assistant-Chat_Now-667EEA?style=for-the-badge" height="40"/>
 </a>
-<a href="mailto:robinjimmichan@gmail.com">
+<a href="mailto:rjimmichan@gmail.com">
   <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
 </a>
 
