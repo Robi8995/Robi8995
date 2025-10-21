@@ -157,7 +157,7 @@ I'm a **Business Analyst** passionate about transforming complex data into actio
 
 ### 🐍 **Python Projects**
 
-<img src="https://skillicons.dev/icons?i=python" width="60"/>
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-Python-Projects)
 
@@ -196,7 +196,7 @@ Patient Risk Assessment
 
 ### 🗃️ **SQL Projects**
 
-<img src="https://skillicons.dev/icons?i=mysql" width="60"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-SQL-Projects)
 
@@ -241,7 +241,7 @@ Customer Retention
 
 ### 📊 **Excel Projects**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="65"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="59"/>
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-Excel-Projects)
 
@@ -284,9 +284,9 @@ Financial Analysis
 
 <div align="center">
 
-### 📈 **Power BI Dashboards**
+### 📈 **PowerBI Projects**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55"/>
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-Power-BI-Projects)
 
