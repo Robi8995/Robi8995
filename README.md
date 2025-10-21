@@ -7,8 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/robin-jimmichan-pooppally-676061291"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://robi-ai.streamlit.app/"><img src="https://img.shields.io/badge/🤖_AI_Assistant-667EEA?style=for-the-badge&logoColor=white"/></a>
-  <a href="mailto:rjimmichan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+  <a href="mailto:rjimmichan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a></p>
 
 ### 📍 Bengaluru, India | 🎯 Aspiring Business Analyst | 💼 Open to Opportunities
 
