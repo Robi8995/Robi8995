@@ -604,7 +604,7 @@ Conversion Analysis
 
 **🔧 Tech Stack:** Power BI • Funnel Charts • Cards • Trend Lines
 
-[![View Project](https://img.shields.io/badge/View_Details-667EEA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robi8995/Business-Analyst-Power-BI-Projects)
+[![View Project](https://img.shields.io/badge/View_Details-667EEA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robin-Jimmichan-Pooppally/Business-Analyst-Power-BI-Projects)
 
 </details>
 
